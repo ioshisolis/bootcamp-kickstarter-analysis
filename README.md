@@ -1,19 +1,29 @@
-#bootcamp-module-1 
+# bootcamp-module-1 
 
-Virtual Class 1
+## Virtual Class 
 
-1-1-Student-Resources
+### 1-1-Student-Resources
+
 GradeBook
+
 TopSongsPivot
+
 ProductPivot
 
-1-2-Sutudent-Resources
+### 1-2-Sutudent-Resources
 
 ChartDemo
+
 LineAndBar
+
 Stats
+
 OutliersDrawnQuartiled
 
 
-bootcamp-kickstarter-analysis
+## Bootcamp-kickstarter-analysis
+
 Performing analysis on Kickstarter data to uncover trends
+
+
+## Module-1-Challenge
