@@ -1,29 +1,19 @@
-#Bootcamp-module-1 
+#bootcamp-module-1 
 
-##Virtual Class 1
+Virtual Class 1
 
-###1-1-Student-Resources
+1-1-Student-Resources
+GradeBook
+TopSongsPivot
+ProductPivot
 
-####GradeBook
+1-2-Sutudent-Resources
 
-####TopSongsPivot
-
-####ProductPivot
-
-
-###1-2-Sutudent-Resources
-
-
-####ChartDemo
-
-####LineAndBar
+ChartDemo
+LineAndBar
+Stats
+OutliersDrawnQuartiled
 
 
-####Stats
-
-####OutliersDrawnQuartiled
-
-
-
-##bootcamp-kickstarter-analysis
+bootcamp-kickstarter-analysis
 Performing analysis on Kickstarter data to uncover trends
