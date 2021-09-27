@@ -2,12 +2,12 @@
 
 ## Overview of Project
 
-An anlysis of The Kickstarter Funding Campaings was conducted based on the information given at module 1. This data set includes different parent categories such as film,games, food, plays, etc. It also includes several golas and pledges with successful, failed, and cancel outcomes. By using Excel and it´s formulas, pivot tables and charts a report would be provided based on the specifications made by Lousise.  
+An analysis of The Kickstarter Funding Campaigns was conducted based on the information given at module 1. This data set includes different parent categories such as film, games, food, plays, etc. It also includes several goals and pledges with successful, failed, and cancel outcomes. By using Excel and it´s formulas, pivot tables and charts a report would be provided based on the specifications made by Louise.
 
 
 ### Purpose
 
-Louise wants to know how different cmapaigns performed in relation to their lunch dates and their funding goals. The main purpose of this project is to provide two graphical deliverables paying specific atention to the catory theater and subcatergory of playas in relationship with the launch dates and golas, along with this witten document. 
+Louise wants to know how different campaigns performed in relation to their lunch dates and their funding goals. The main purpose of this project is to provide two graphical deliverables paying specific attention to the category theater and subcategory of playas in relationship with the launch dates and goals, along with this written document.
 
 ## Analysis and Challenges
 
@@ -16,18 +16,19 @@ Louise wants to know how different cmapaigns performed in relation to their lunc
 
 ### Analysis of Outcomes Based on Launch Date
 
-This analysis is comprehensive of the final outcome (successful, failed or canceled) by the launch date. In order to complete this, a pivot table was created by using the Parent Category: theater as a filter, but also the years, in order for the information to be displayed by month. As the rusult of this analisis we must conclude that May was the best month to launch the kickstarter campaing for theater, also we can say, that december is not that good of a month. 
+This analysis is comprehensive of the outcome for successful, failed, or canceled campaigns by the launch date. To complete this, a pivot table was created by using the Parent Category: theater as a filter, but also the years, for the information to be displayed by month. As the result of this analysis, we must conclude that May was the best month to launch the Kickstarter campaign for theater, also we can say, that December is not that good of a month to do a campaign. 
+
 ![Captura de Pantalla 2021-09-27 a la(s) 4 33 03 p  m](https://user-images.githubusercontent.com/37987602/134994313-e27cf723-a2aa-4076-8958-67bfba54fdd5.png)
 
 ### Analysis of Outcomes Based on Goals
 
-This analysis is comprehensive of the final percentage for (successful, failed or canceled) outcome of the subcategory of plays. In order to complete this a new spreadsheet was create with the range of goals given by the client, it also includes the number of successful, failed or canceled campaings and their total, to finalize this information is also represente on percentages. 
+This analysis is comprehensive of the final percentage for (successful, failed or canceled) outcome of the subcategory of plays. To complete this a new spreadsheet was create with the range of goals given by the client, it also includes the number of successful, failed or canceled campaigns and their total, to finalize this information is also represented on percentages.
 
 ![Captura de Pantalla 2021-09-27 a la(s) 5 15 31 p  m](https://user-images.githubusercontent.com/37987602/134997685-9a92967c-8066-4578-9fba-84d887772911.png)
 
 ### Challenges and Difficulties Encountered
 
-The main challanges i had was with the las formula COUNTIFS since the range for the Goals has values between different numbers. I had to add and extra if (new range, new criteria).
+The main challenges I had was with the las formula COUNTIFS since the range for the Goals has values between different numbers. I had to add and extra if (new range, new criteria).
 
 ![Captura de Pantalla 2021-09-27 a la(s) 5 16 42 p  m](https://user-images.githubusercontent.com/37987602/134997773-965d2cd2-2828-45f3-8576-c3259500bb9c.png)
 
@@ -36,18 +37,16 @@ The main challanges i had was with the las formula COUNTIFS since the range for 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The first quarter is the better time to launch a campaign, the number of campaings cancel it alwasys stays the same. 
+The first quarter is the better time to launch a campaign, the number of campaigns cancel it always stays the same.
 
 - What can you conclude about the Outcomes based on Goals?
 
-The best campaings have goals less than 1000 or between 20000 and 24999, this get a better successful percentage. This also shows that no campaings where cancel for the subcatery of plays. 
+The best campaigns have goals less than 1000 or between 20000 and 24999, these two ranges get a better successful percentage. This also shows that no campaigns where cancel for the subcategory of plays.
 
 - What are some limitations of this dataset?
 
-It will be good to know weher are the plays being shown, or what theaters are participating. Also zipcodes of whete the theaters and people that pledge are. 
+It will be good to know where the plays are being shown, or what theaters are participating. Also, zip codes of where the theaters and people that pledge are.
 
 - What are some other possible tables and/or graphs that we could create?
 
-Relationship between outcome and peldge to compare it with the goals. 
-Relationship between Outomes by average donation in the differente categories
-Relationship between numeber of backers and the outcome. 
+Relationship between outcome and pledge to compare it with the goals. Relationship between Outcomes by average donation in the different categories Relationship between number of backers and the outcome.
