@@ -1,29 +1,24 @@
-# bootcamp-module-1 
+# Kickstarting with Excel bootcamp-module-1 
 
-## Virtual Class 
-
-### 1-1-Student-Resources
-
-GradeBook
-
-TopSongsPivot
-
-ProductPivot
-
-### 1-2-Sutudent-Resources
-
-ChartDemo
-
-LineAndBar
-
-Stats
-
-OutliersDrawnQuartiled
+## Overview of Project
 
 
-## Bootcamp-kickstarter-analysis
+### Purpose
 
-Performing analysis on Kickstarter data to uncover trends
+## Analysis and Challenges
 
+### Analysis of Outcomes Based on Launch Date
 
-## Module-1-Challenge
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
