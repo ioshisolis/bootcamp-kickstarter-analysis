@@ -17,6 +17,7 @@ Louise wants to know how different cmapaigns performed in relation to their lunc
 ### Analysis of Outcomes Based on Launch Date
 
 This analysis is comprehensive of the final outcome (successful, failed or canceled) by the launch date. In order to complete this, a pivot table was created by using the Parent Category: theater as a filter, but also the years, in order for the information to be displayed by month. As the rusult of this analisis we must conclude that May was the best month to launch the kickstarter campaing for theater, also we can say, that december is not that good of a month. 
+![Captura de Pantalla 2021-09-27 a la(s) 4 33 03 p  m](https://user-images.githubusercontent.com/37987602/134994313-e27cf723-a2aa-4076-8958-67bfba54fdd5.png)
 
 ### Analysis of Outcomes Based on Goals
 
