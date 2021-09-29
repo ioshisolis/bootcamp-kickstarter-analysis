@@ -18,13 +18,16 @@ Louise wants to know how different campaigns performed in relation to their lunc
 
 This analysis is comprehensive of the outcome for successful, failed, or canceled campaigns by the launch date. To complete this, a pivot table was created by using the Parent Category: theater as a filter, but also the years, for the information to be displayed by month. As the result of this analysis, we must conclude that May was the best month to launch the Kickstarter campaign for theater, also we can say, that December is not that good of a month to do a campaign. 
 
-![Captura de Pantalla 2021-09-27 a la(s) 4 33 03 p  m](https://user-images.githubusercontent.com/37987602/134994313-e27cf723-a2aa-4076-8958-67bfba54fdd5.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/37987602/135280401-7684c8e2-976c-4739-90e2-63bc11a7d711.png)
+
+
 
 ### Analysis of Outcomes Based on Goals
 
 This analysis is comprehensive of the final percentage for (successful, failed or canceled) outcome of the subcategory of plays. To complete this a new spreadsheet was create with the range of goals given by the client, it also includes the number of successful, failed or canceled campaigns and their total, to finalize this information is also represented on percentages.
 
-![Captura de Pantalla 2021-09-27 a la(s) 5 15 31 p  m](https://user-images.githubusercontent.com/37987602/134997685-9a92967c-8066-4578-9fba-84d887772911.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/37987602/135280528-2eb15bb1-035b-46ad-a98a-6bf254960f4b.png)
+
 
 ### Challenges and Difficulties Encountered
 
