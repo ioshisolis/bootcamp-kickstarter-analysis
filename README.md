@@ -26,7 +26,8 @@ This analysis is comprehensive of the outcome for successful, failed, or cancele
 
 This analysis is comprehensive of the final percentage for (successful, failed or canceled) outcome of the subcategory of plays. To complete this a new spreadsheet was create with the range of goals given by the client, it also includes the number of successful, failed or canceled campaigns and their total, to finalize this information is also represented on percentages.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/37987602/135280528-2eb15bb1-035b-46ad-a98a-6bf254960f4b.png)
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/37987602/135561681-29a10477-9cac-4232-982d-992533a2b5f8.png)
 
 
 ### Challenges and Difficulties Encountered
@@ -34,6 +35,10 @@ This analysis is comprehensive of the final percentage for (successful, failed o
 The main challenges I had was with the las formula COUNTIFS since the range for the Goals has values between different numbers. I had to add and extra if (new range, new criteria).
 
 ![Captura de Pantalla 2021-09-27 a la(s) 5 16 42 p  m](https://user-images.githubusercontent.com/37987602/134997773-965d2cd2-2828-45f3-8576-c3259500bb9c.png)
+
+### Challenges and Difficulties Encountered afert fixing the COUNTIFS Formula
+
+The main challenge was the use of the >= and <= signs, i was using them wrong. Now they are fixed. No wonder why the graphs looked different. 
 
 
 ## Results
