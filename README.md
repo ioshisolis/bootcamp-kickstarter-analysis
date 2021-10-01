@@ -45,11 +45,11 @@ The main challenge was the use of the >= and <= signs, i was using them wrong. N
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The first quarter is the better time to launch a campaign, the number of campaigns cancel it always stays the same.
+The first quarter is the better time to launch a campaign, the number of campaigns cancel seems to be low and keeps the same pattern.
 
 - What can you conclude about the Outcomes based on Goals?
 
-The best campaigns have goals less than 1000 or between 20000 and 24999, these two ranges get a better successful percentage. This also shows that no campaigns where cancel for the subcategory of plays.
+The best campaigns have goals less than 1000 and between 25000 to 29999. These two ranges get a better successful percentage. This also shows that no campaigns where cancel for the subcategory of plays. What we can conclude is that campaiangs over. 45000 might not be a good idea. 
 
 - What are some limitations of this dataset?
 
